@@ -1,3 +1,3 @@
 # Hallo Welt
 
-Git Staging in Donnerstag in w3schols
+Git Staging in Dienstag in w3schols
